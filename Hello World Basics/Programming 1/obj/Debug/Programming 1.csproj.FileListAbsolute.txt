@@ -1,0 +1,10 @@
+E:\Saved\Projects\Final App\Programming 1\Programming 1\bin\Debug\Programming 1.exe.config
+E:\Saved\Projects\Final App\Programming 1\Programming 1\bin\Debug\Programming 1.exe
+E:\Saved\Projects\Final App\Programming 1\Programming 1\bin\Debug\Programming 1.pdb
+E:\Saved\Projects\Final App\Programming 1\Programming 1\obj\Debug\Programming 1.csproj.AssemblyReference.cache
+E:\Saved\Projects\Final App\Programming 1\Programming 1\obj\Debug\Programming_1.frmHelloWorld.resources
+E:\Saved\Projects\Final App\Programming 1\Programming 1\obj\Debug\Programming_1.Properties.Resources.resources
+E:\Saved\Projects\Final App\Programming 1\Programming 1\obj\Debug\Programming 1.csproj.GenerateResource.cache
+E:\Saved\Projects\Final App\Programming 1\Programming 1\obj\Debug\Programming 1.csproj.CoreCompileInputs.cache
+E:\Saved\Projects\Final App\Programming 1\Programming 1\obj\Debug\Programming 1.exe
+E:\Saved\Projects\Final App\Programming 1\Programming 1\obj\Debug\Programming 1.pdb
