@@ -1,0 +1,40 @@
+C:\Programming 1\ChapterThree\ChapterThree\bin\Debug\ChapterThree.exe.config
+C:\Programming 1\ChapterThree\ChapterThree\bin\Debug\ChapterThree.exe
+C:\Programming 1\ChapterThree\ChapterThree\bin\Debug\ChapterThree.pdb
+C:\Programming 1\ChapterThree\ChapterThree\obj\Debug\ChapterThree.csproj.AssemblyReference.cache
+C:\Programming 1\ChapterThree\ChapterThree\obj\Debug\ChapterThree.Properties.Resources.resources
+C:\Programming 1\ChapterThree\ChapterThree\obj\Debug\ChapterThree.csproj.GenerateResource.cache
+C:\Programming 1\ChapterThree\ChapterThree\obj\Debug\ChapterThree.csproj.CoreCompileInputs.cache
+C:\Programming 1\ChapterThree\ChapterThree\obj\Debug\ChapterThree.exe
+C:\Programming 1\ChapterThree\ChapterThree\obj\Debug\ChapterThree.pdb
+C:\Programming 1\ChapterThree\ChapterThree\obj\Debug\ChapterThree.ChapterThree.resources
+C:\Users\WindowsVM-ish\Desktop\2 and 3\2 and 3\ChapterThree\ChapterThree\obj\Debug\ChapterThree.csproj.AssemblyReference.cache
+C:\Users\WindowsVM-ish\Desktop\2 and 3\2 and 3\ChapterThree\ChapterThree\obj\Debug\ChapterThree.ChapterThree.resources
+C:\Users\WindowsVM-ish\Desktop\2 and 3\2 and 3\ChapterThree\ChapterThree\obj\Debug\ChapterThree.Properties.Resources.resources
+C:\Users\WindowsVM-ish\Desktop\2 and 3\2 and 3\ChapterThree\ChapterThree\obj\Debug\ChapterThree.csproj.GenerateResource.cache
+C:\Users\WindowsVM-ish\Desktop\2 and 3\2 and 3\ChapterThree\ChapterThree\obj\Debug\ChapterThree.csproj.CoreCompileInputs.cache
+C:\Users\WindowsVM-ish\Desktop\2 and 3\2 and 3\ChapterThree\ChapterThree\obj\Debug\ChapterThree.exe
+C:\Users\WindowsVM-ish\Desktop\2 and 3\2 and 3\ChapterThree\ChapterThree\obj\Debug\ChapterThree.pdb
+C:\Users\WindowsVM-ish\Desktop\2 and 3\2 and 3\ChapterThree\ChapterThree\bin\Debug\ChapterThree.exe.config
+C:\Users\WindowsVM-ish\Desktop\2 and 3\2 and 3\ChapterThree\ChapterThree\bin\Debug\ChapterThree.exe
+C:\Users\WindowsVM-ish\Desktop\2 and 3\2 and 3\ChapterThree\ChapterThree\bin\Debug\ChapterThree.pdb
+E:\ChapterThree Ismael\ChapterThree\obj\Debug\ChapterThree.csproj.AssemblyReference.cache
+E:\ChapterThree Ismael\ChapterThree\obj\Debug\ChapterThree.ChapterThree.resources
+E:\ChapterThree Ismael\ChapterThree\obj\Debug\ChapterThree.Properties.Resources.resources
+E:\ChapterThree Ismael\ChapterThree\obj\Debug\ChapterThree.csproj.GenerateResource.cache
+E:\ChapterThree Ismael\ChapterThree\obj\Debug\ChapterThree.csproj.CoreCompileInputs.cache
+E:\ChapterThree Ismael\ChapterThree\obj\Debug\ChapterThree.exe
+E:\ChapterThree Ismael\ChapterThree\obj\Debug\ChapterThree.pdb
+E:\ChapterThree Ismael\ChapterThree\bin\Debug\ChapterThree.exe.config
+E:\ChapterThree Ismael\ChapterThree\bin\Debug\ChapterThree.exe
+E:\ChapterThree Ismael\ChapterThree\bin\Debug\ChapterThree.pdb
+C:\Users\WindowsVM-ish\Desktop\ChapterThree Ismael\ChapterThree\bin\Debug\ChapterThree.exe.config
+C:\Users\WindowsVM-ish\Desktop\ChapterThree Ismael\ChapterThree\bin\Debug\ChapterThree.exe
+C:\Users\WindowsVM-ish\Desktop\ChapterThree Ismael\ChapterThree\bin\Debug\ChapterThree.pdb
+C:\Users\WindowsVM-ish\Desktop\ChapterThree Ismael\ChapterThree\obj\Debug\ChapterThree.csproj.AssemblyReference.cache
+C:\Users\WindowsVM-ish\Desktop\ChapterThree Ismael\ChapterThree\obj\Debug\ChapterThree.ChapterThree.resources
+C:\Users\WindowsVM-ish\Desktop\ChapterThree Ismael\ChapterThree\obj\Debug\ChapterThree.Properties.Resources.resources
+C:\Users\WindowsVM-ish\Desktop\ChapterThree Ismael\ChapterThree\obj\Debug\ChapterThree.csproj.GenerateResource.cache
+C:\Users\WindowsVM-ish\Desktop\ChapterThree Ismael\ChapterThree\obj\Debug\ChapterThree.csproj.CoreCompileInputs.cache
+C:\Users\WindowsVM-ish\Desktop\ChapterThree Ismael\ChapterThree\obj\Debug\ChapterThree.exe
+C:\Users\WindowsVM-ish\Desktop\ChapterThree Ismael\ChapterThree\obj\Debug\ChapterThree.pdb
