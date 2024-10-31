@@ -1,0 +1,11 @@
+E:\Documents\Saved\Projects\Final App\frmMenus\frmMenus\obj\Debug\frmMenus.csproj.AssemblyReference.cache
+E:\Documents\Saved\Projects\Final App\frmMenus\frmMenus\obj\Debug\frmMenus.frmFunctions.resources
+E:\Documents\Saved\Projects\Final App\frmMenus\frmMenus\obj\Debug\frmMenus.frmSummary.resources
+E:\Documents\Saved\Projects\Final App\frmMenus\frmMenus\obj\Debug\frmMenus.Properties.Resources.resources
+E:\Documents\Saved\Projects\Final App\frmMenus\frmMenus\obj\Debug\frmMenus.csproj.GenerateResource.cache
+E:\Documents\Saved\Projects\Final App\frmMenus\frmMenus\obj\Debug\frmMenus.csproj.CoreCompileInputs.cache
+E:\Documents\Saved\Projects\Final App\frmMenus\frmMenus\bin\Debug\frmMenus.exe.config
+E:\Documents\Saved\Projects\Final App\frmMenus\frmMenus\bin\Debug\frmMenus.exe
+E:\Documents\Saved\Projects\Final App\frmMenus\frmMenus\bin\Debug\frmMenus.pdb
+E:\Documents\Saved\Projects\Final App\frmMenus\frmMenus\obj\Debug\frmMenus.exe
+E:\Documents\Saved\Projects\Final App\frmMenus\frmMenus\obj\Debug\frmMenus.pdb

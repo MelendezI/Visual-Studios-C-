@@ -1,0 +1,10 @@
+C:\Users\WindowsVM-ish\source\repos\Chapter 4\Chapter 4\obj\Debug\Chapter 4.csproj.AssemblyReference.cache
+C:\Users\WindowsVM-ish\source\repos\Chapter 4\Chapter 4\obj\Debug\Chapter_4.frmLoginForm.resources
+C:\Users\WindowsVM-ish\source\repos\Chapter 4\Chapter 4\obj\Debug\Chapter_4.Properties.Resources.resources
+C:\Users\WindowsVM-ish\source\repos\Chapter 4\Chapter 4\obj\Debug\Chapter 4.csproj.GenerateResource.cache
+C:\Users\WindowsVM-ish\source\repos\Chapter 4\Chapter 4\obj\Debug\Chapter 4.csproj.CoreCompileInputs.cache
+C:\Users\WindowsVM-ish\source\repos\Chapter 4\Chapter 4\bin\Debug\Chapter 4.exe.config
+C:\Users\WindowsVM-ish\source\repos\Chapter 4\Chapter 4\bin\Debug\Chapter 4.exe
+C:\Users\WindowsVM-ish\source\repos\Chapter 4\Chapter 4\bin\Debug\Chapter 4.pdb
+C:\Users\WindowsVM-ish\source\repos\Chapter 4\Chapter 4\obj\Debug\Chapter 4.exe
+C:\Users\WindowsVM-ish\source\repos\Chapter 4\Chapter 4\obj\Debug\Chapter 4.pdb

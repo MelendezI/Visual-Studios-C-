@@ -1,0 +1,19 @@
+E:\Saved\Projects\Final App\Chapter 2\Chapter 2\bin\Debug\Chapter 2.exe.config
+E:\Saved\Projects\Final App\Chapter 2\Chapter 2\bin\Debug\Chapter 2.exe
+E:\Saved\Projects\Final App\Chapter 2\Chapter 2\bin\Debug\Chapter 2.pdb
+E:\Saved\Projects\Final App\Chapter 2\Chapter 2\obj\Debug\Chapter 2.csproj.AssemblyReference.cache
+E:\Saved\Projects\Final App\Chapter 2\Chapter 2\obj\Debug\Chapter_2.Form1.resources
+E:\Saved\Projects\Final App\Chapter 2\Chapter 2\obj\Debug\Chapter_2.Properties.Resources.resources
+E:\Saved\Projects\Final App\Chapter 2\Chapter 2\obj\Debug\Chapter 2.csproj.GenerateResource.cache
+E:\Saved\Projects\Final App\Chapter 2\Chapter 2\obj\Debug\Chapter 2.csproj.CoreCompileInputs.cache
+E:\Saved\Projects\Final App\Chapter 2\Chapter 2\obj\Debug\Chapter 2.exe
+E:\Saved\Projects\Final App\Chapter 2\Chapter 2\obj\Debug\Chapter 2.pdb
+E:\Saved\Projects\Final App\Chapter 2\Chapter 2\obj\Debug\Chapter_2.frmPriceCalculator.resources
+E:\Saved\Projects\Final App\Chapter 2\Chapter 2\obj\Debug\Chapter_2.Calculator.resources
+E:\Documents\Saved\Projects\Final App\Chapter 2\Chapter 2\obj\Debug\Chapter 2.csproj.AssemblyReference.cache
+E:\Documents\Saved\Projects\Final App\Chapter 2\Chapter 2\obj\Debug\Chapter_2.Calculator.resources
+E:\Documents\Saved\Projects\Final App\Chapter 2\Chapter 2\obj\Debug\Chapter_2.Properties.Resources.resources
+E:\Documents\Saved\Projects\Final App\Chapter 2\Chapter 2\obj\Debug\Chapter 2.csproj.GenerateResource.cache
+E:\Documents\Saved\Projects\Final App\Chapter 2\Chapter 2\obj\Debug\Chapter 2.csproj.CoreCompileInputs.cache
+E:\Documents\Saved\Projects\Final App\Chapter 2\Chapter 2\obj\Debug\Chapter 2.exe
+E:\Documents\Saved\Projects\Final App\Chapter 2\Chapter 2\obj\Debug\Chapter 2.pdb
