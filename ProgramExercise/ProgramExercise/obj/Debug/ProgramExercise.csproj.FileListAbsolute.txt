@@ -1,0 +1,10 @@
+E:\Documents\Saved\Projects\Final App\ProgramExercise\ProgramExercise\bin\Debug\ProgramExercise.exe.config
+E:\Documents\Saved\Projects\Final App\ProgramExercise\ProgramExercise\bin\Debug\ProgramExercise.exe
+E:\Documents\Saved\Projects\Final App\ProgramExercise\ProgramExercise\bin\Debug\ProgramExercise.pdb
+E:\Documents\Saved\Projects\Final App\ProgramExercise\ProgramExercise\obj\Debug\ProgramExercise.csproj.AssemblyReference.cache
+E:\Documents\Saved\Projects\Final App\ProgramExercise\ProgramExercise\obj\Debug\ProgramExercise.frmQuizOne.resources
+E:\Documents\Saved\Projects\Final App\ProgramExercise\ProgramExercise\obj\Debug\ProgramExercise.Properties.Resources.resources
+E:\Documents\Saved\Projects\Final App\ProgramExercise\ProgramExercise\obj\Debug\ProgramExercise.csproj.GenerateResource.cache
+E:\Documents\Saved\Projects\Final App\ProgramExercise\ProgramExercise\obj\Debug\ProgramExercise.csproj.CoreCompileInputs.cache
+E:\Documents\Saved\Projects\Final App\ProgramExercise\ProgramExercise\obj\Debug\ProgramExercise.exe
+E:\Documents\Saved\Projects\Final App\ProgramExercise\ProgramExercise\obj\Debug\ProgramExercise.pdb
